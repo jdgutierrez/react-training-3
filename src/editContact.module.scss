@@ -1,0 +1,8 @@
+:global(.editInfo) {
+    &.new {
+        background-color: purple;
+    }
+    &.active {
+        background-color: green;
+    }
+}
